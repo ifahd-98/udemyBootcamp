@@ -21,11 +21,27 @@ hr{
     border-width: 5px;
     width: 10%;
 }
-.transistion {
+.top-container {
     max-width: initial;
     height: auto;
     margin:0 ;
     position: relative;
     z-index: 990;
-    background-color: lightblue;
+    background-color: #678983;
+}
+.middle-container {
+    max-width: initial;
+    height: auto;
+    margin:0 ;
+    position: relative;
+    z-index: 990;
+    background-color: #E6DDC4;
+}
+.bottom-container {
+    max-width: initial;
+    height: auto;
+    margin:0 ;
+    position: relative;
+    z-index: 990;
+    background-color: #181D31;
 }
