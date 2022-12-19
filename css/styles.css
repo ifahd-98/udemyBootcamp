@@ -1,6 +1,7 @@
 body {
     background-color: #e0ebe8;
     text-align: left;
+    margin: 0;
 }
 h1{
     
@@ -8,6 +9,7 @@ h1{
 }h2{
     
     color:#0E5E6F;
+    margin-top: 0;
 }h3{
     
     color:#0E5E6F;
