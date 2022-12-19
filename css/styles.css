@@ -19,3 +19,11 @@ hr{
     border-width: 5px;
     width: 10%;
 }
+.transistion {
+    max-width: initial;
+    height: auto;
+    margin:0 ;
+    position: relative;
+    z-index: 990;
+    background-color: lightblue;
+}
