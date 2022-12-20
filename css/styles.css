@@ -1,6 +1,8 @@
 body {
     background-color: #e0ebe8;
     margin: 0;
+    font-family: 'Handlee', cursive;
+
 }
 h1{
     
@@ -90,6 +92,7 @@ text-align:-webkit-center ;
     height: 85.600px; */
     /* border-radius: 50%; */
     width: 44px;
+    vertical-align: -webkit-baseline-middle;
     height: 44px;
     /* position: absolute; */
     /* top: 50%; */
