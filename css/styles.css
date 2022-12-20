@@ -27,13 +27,14 @@ hr{
     width: 20%;
 }
 .top-container {
-    max-width: initial;
+    max-width:auto;
     height: auto;
     margin:0 ;
     position: relative;
     z-index: 990;
     background-color: #678983;
     padding: 1%;
+    text-align: center;
 }
 
 .middle-container {
@@ -42,8 +43,9 @@ hr{
     margin:0 ;
     position: relative;
     z-index: 990;
-
-    background-color: #E6DDC4;
+background-color: lightgray;
+text-align:-webkit-center ;
+    /* background-color: #E6DDC4; */
 }
 .bottom-container {
     max-width: initial;
@@ -51,7 +53,8 @@ hr{
     margin:0 ;
     position: relative;
     z-index: 990;
-    background-color: #181D31;
+    /* background-color: #181D31; */
+    background-color: #678983;
 }
 #cloud{
     padding: 2px;
