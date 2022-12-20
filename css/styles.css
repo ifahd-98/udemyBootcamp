@@ -34,7 +34,7 @@ hr{
     z-index: 990;
     background-color: #678983;
     padding: 1%;
-    text-align: center;
+    /* text-align: center; */
 }
 
 .middle-container {
