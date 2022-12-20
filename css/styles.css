@@ -1,6 +1,5 @@
 body {
     background-color: #e0ebe8;
-    text-align: left;
     margin: 0;
 }
 h1{
@@ -20,6 +19,9 @@ h3{
 td{
     border: #0E5E6F;
 }
+div{
+    display: block;
+}
 hr{
     border-style: none ;
     border-top-style: dotted;
@@ -36,7 +38,28 @@ hr{
     background-color: #678983;
     padding: 1%;
     /* text-align: center; */
+    /* transition: all .5s ease-in-out; */
 }
+/* .nav-list{
+    padding-top: 1.5em;
+    padding-right: 100px;
+    position: relative;
+    float: right;
+    /* display: contents; */
+    /* float: left; */
+
+/* .ul{
+    margin-top: 0;
+    margin-bottom: 10px;
+} */
+/* .nav-list {
+    display: flex;
+  }
+  
+  .nav-list li {
+    display: inline-block;
+    margin-right: 20px;
+  } */
 
 .middle-container {
     max-width: initial;
@@ -58,9 +81,20 @@ text-align:-webkit-center ;
     /* background-color: #181D31; */
     background-color: #678983;
 }
+.profile{
+    /* position: absolute; */
+    text-align: left;
+}
+
+
 #cloud{
     padding: 2px;
 }
 #mountain{
     padding: 20px;
+}
+#fahad-pic{
+    width: 152px;
+    height: 152px;
+    border-radius: 50%;
 }
